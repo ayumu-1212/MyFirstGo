@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gosample"
+	"/Users/ayumu-1212/Documents/private/programing/Go/MyFirstGo/section1/myproject/src/gosample"
 )
 
 func main() {
